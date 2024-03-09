@@ -18,4 +18,4 @@ const response = await client.createDelivery({
 
 console.log(response);
 
-// This code is to create a simulation of creating the delivery ID For doordash's delivery simulator, thus not related to the project at hand
+// This code is to create a simulation of creating the delivery ID For doordash's delivery simulator ONLY
