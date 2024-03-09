@@ -17,3 +17,5 @@ const response = client
   });
 
 console.log(response)
+
+//This code is to create a simulation of acquiring the delivery ID and getting status updates ONLY
